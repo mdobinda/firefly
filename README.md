@@ -1,6 +1,6 @@
 # Firefly
 
-This project was created  as a school project. The project is a 3D puzzle platformer genre video game developed in the Unity Engine by Justin Sasso, Magdalena Dobinda, Carlos Martinez, and Daniel Collishaw.
+The project is a 3D puzzle platformer genre video game developed in the Unity Engine by Justin Sasso, Magdalena Dobinda, Carlos Martinez, and Daniel Collishaw.
 
 ## Getting Started
 
